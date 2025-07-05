@@ -1,0 +1,7 @@
+Django 
+Scikit-learn
+Pandas
+Numpy
+Tensorflow
+Pickle
+IO
